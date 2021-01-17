@@ -11,11 +11,7 @@ function evenBinary(n) {
   let evenArrIdx = 0;
   for (let i = 0; i < splittedN.length; i++) {
     if (splittedN[i][2] === `0`) {
-      splittedN.splice(
-        splittedN.indexOf(splittedN[i]),
-        1,
-        sortedEvenArr[evenArrIdx]
-      );
+      splittedN.splice(i, 1, sortedEvenArr[evenArrIdx]);
       evenArrIdx++;
     }
   }
