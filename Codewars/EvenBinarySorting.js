@@ -6,13 +6,18 @@
 //   evenBinary("110 011 001 100 101") // returns "100 011 001 110 101";
 
 function evenBinary(n) {
-  let splittedArray = n.split(" ");
-  let evenArray = [];
-  for (let i = 0; i < splittedArray.length; i++) {
-    if (splittedArray[i][splittedArray[i].length - 1] === `1`) continue;
-    else {
-      evenArray.push(splittedArray[i]);
+  const splittedN = n.split(" ");
+  const sortedEvenArr = splittedN.filter((num) => num[2] === `0`).sort();
+  let evenArrIdx = 0;
+  for (let i = 0; i < splittedN.length; i++) {
+    if (splittedN[i][2] === `0`) {
+      splittedN.splice(
+        splittedN.indexOf(splittedN[i]),
+        1,
+        sortedEvenArr[evenArrIdx]
+      );
+      evenArrIdx++;
     }
   }
-  console.log(evenArray);
+  return splittedN.join(" ");
 }
