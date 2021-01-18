@@ -13,6 +13,7 @@ https://velog.io/@jjo-niixx/series/Code-Kata
 
 | 날짜     | 문제                                                                                           |
 | -------- | ---------------------------------------------------------------------------------------------- |
+| 21.01.18 | [Simple Pig Latin](https://www.codewars.com/kata/520b9d2ad5c005041100000f/javascript)          |
 | 21.01.17 | [Even Binary Sorting](https://www.codewars.com/kata/582bbdbcc190132e3e0001f3/javascript)       |
 | 21.01.15 | [Complete Fibonacci Series](https://www.codewars.com/kata/5239f06d20eeab9deb00049b/javascript) |
 | 21.01.13 | [Maximum subarray sum](https://www.codewars.com/kata/54521e9ec8e60bc4de000d6c/javascript)      |
