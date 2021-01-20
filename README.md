@@ -13,6 +13,7 @@ https://velog.io/@jjo-niixx/series/Code-Kata
 
 | 날짜     | 문제                                                                                           |
 | -------- | ---------------------------------------------------------------------------------------------- |
+| 21.01.20 | [Is a number prime?](https://www.codewars.com/kata/5262119038c0985a5b00029f/javascript)        |
 | 21.01.19 | [Find the odd int](https://www.codewars.com/kata/54da5a58ea159efa38000836/javascript)          |
 | 21.01.18 | [Simple Pig Latin](https://www.codewars.com/kata/520b9d2ad5c005041100000f/javascript)          |
 | 21.01.17 | [Even Binary Sorting](https://www.codewars.com/kata/582bbdbcc190132e3e0001f3/javascript)       |
@@ -36,6 +37,6 @@ https://velog.io/@jjo-niixx/series/Code-Kata
 
 ## CodingTest 문제
 
-| 날짜     | 문제                                                   |
-| -------- | ------------------------------------------------------ |
-| 21.01.20 | [Check a large string if it has each word in an array] |
+| 날짜     | 문제          |
+| -------- | ------------- |
+| 21.01.20 | Check Strings |
