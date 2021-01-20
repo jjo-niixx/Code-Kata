@@ -33,3 +33,9 @@ https://velog.io/@jjo-niixx/series/Code-Kata
 | -------- | ----------------------------------------------------------------------- |
 | 20.12.16 | [Skill Tree](https://programmers.co.kr/learn/courses/30/lessons/49993)  |
 | 20.12.16 | [Unique Path](https://programmers.co.kr/learn/courses/30/lessons/49994) |
+
+## CodingTest 문제
+
+| 날짜     | 문제                                                   |
+| -------- | ------------------------------------------------------ |
+| 21.01.20 | [Check a large string if it has each word in an array] |
