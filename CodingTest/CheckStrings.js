@@ -7,14 +7,20 @@
 function checkString(largeStr, smallStr) {
   const length = largeStr.length;
   const arr = smallStr.map((str) => {
+    let check = true;
     for (let i = 0; i < length; i++) {
       if (largeStr[i] === str[0]) {
-        for (let j = 0; j < str.length; j++) {
-          if (largeStr[i + j] !== str[j]) return false;
+        for (let j = 1; j < str.length; j++) {
+          if (largeStr[i + j] !== str[j]) {
+            check = false;
+            break;
+          }
+          check = true;
         }
-        return true;
+        if (check) return true;
       }
     }
+    return check;
   });
   return arr;
 }
