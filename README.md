@@ -13,7 +13,8 @@ https://velog.io/@jjo-niixx/series/Code-Kata
 
 | 날짜     | 문제                                                                                           |
 | -------- | ---------------------------------------------------------------------------------------------- |
-| 21.01.25 | [Human Readable Time ](https://www.codewars.com/kata/52685f7382004e774f0001f7)                 |
+| 21.01.28 | [Sqrt approximation](https://www.codewars.com/kata/52ecde1244751a799b00018a)                   |
+| 21.01.25 | [Human Readable Time](https://www.codewars.com/kata/52685f7382004e774f0001f7)                  |
 | 21.01.24 | [Get the Middle Character](https://www.codewars.com/kata/56747fd5cb988479af000028/javascript)  |
 | 21.01.20 | [Is a number prime?](https://www.codewars.com/kata/5262119038c0985a5b00029f/javascript)        |
 | 21.01.19 | [Find the odd int](https://www.codewars.com/kata/54da5a58ea159efa38000836/javascript)          |
